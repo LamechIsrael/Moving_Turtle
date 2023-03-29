@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python      #
 # Module 2 - Project 2 - Moving Turtle  #
 # Author: Lamech Israel                 #
-# Date:   01/17/2023                    #
+#                                       #
 #########################################
 
 
